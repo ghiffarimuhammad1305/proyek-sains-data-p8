@@ -6,9 +6,11 @@
 EOFcat << 'EOF' > README.md
 # Proyek Lab Sains Data (P8): Dari Keputusan ke Data
 
-- **Nama:** Lufthansa Daffa Gilbran Pambudi
-- **NIM:** 12010223140054
-- **Program Studi:** S1 Bisnis Digital FEB UNDIP
+- **Nama & NIM:**
+- Lufthansa Daffa Gilbran (12010223140054)
+- Ghiffari Muhammad (12010223140015)
+- Muhammad Indra Mulya (12010223140067)
+- **Program Studi:** S1 Bisnis Digital FEB Universitas Diponegoro
 
 ## 1. Lembar Rencana Data (1 Halaman)
 - **KEPUTUSAN:** Tim produk memutuskan 1 fitur prioritas untuk dibangun pada rilis aplikasi layanan/jasa kampus sebelum Pertemuan 12.
